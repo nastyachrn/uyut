@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uyut", "uyut\uyut.csproj", "{746B9F75-4C63-49B4-9D20-2E0463716825}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{746B9F75-4C63-49B4-9D20-2E0463716825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{746B9F75-4C63-49B4-9D20-2E0463716825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{746B9F75-4C63-49B4-9D20-2E0463716825}.Debug|x86.ActiveCfg = Debug|x86
+		{746B9F75-4C63-49B4-9D20-2E0463716825}.Debug|x86.Build.0 = Debug|x86
+		{746B9F75-4C63-49B4-9D20-2E0463716825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{746B9F75-4C63-49B4-9D20-2E0463716825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{746B9F75-4C63-49B4-9D20-2E0463716825}.Release|x86.ActiveCfg = Release|x86
+		{746B9F75-4C63-49B4-9D20-2E0463716825}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C9700ED-08B5-490F-B4AD-7E262D802D42}
+	EndGlobalSection
+EndGlobal
