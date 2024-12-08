@@ -29,6 +29,8 @@ namespace uyut
 
         private void button1_Click(object sender, EventArgs e)
         {
+            Form6 f = new Form6();
+            f.ShowDialog();
             Application.Exit();
         }
     }
